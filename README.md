@@ -1,0 +1,2 @@
+# WatchApp
+Example .NETCore application
